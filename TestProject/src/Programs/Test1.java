@@ -6,10 +6,6 @@ public class Test1 {
 		System.out.println("git test");
 		
 		//second commit
-		
 
-		//added in ecl
-
-		//added from chr
 	}
 }
