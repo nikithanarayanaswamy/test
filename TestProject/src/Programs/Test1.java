@@ -6,11 +6,11 @@ public class Test1 {
 		System.out.println("git test");
 		
 
-		//changed in local
+		//changed in master
 		
 		//branch1
 
-		//changed in chr
+		
 
 	}
 }
