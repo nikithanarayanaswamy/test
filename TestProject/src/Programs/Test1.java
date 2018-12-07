@@ -6,6 +6,8 @@ public class Test1 {
 		System.out.println("git test");
 		
 //added in master
+		
+		//master is one commit ahead
 
 	}
 }
