@@ -7,6 +7,7 @@ public class Test1 {
 		
 
 
+
 		//changed in local
 		
 		//branch1
@@ -17,6 +18,11 @@ public class Test1 {
 
 		//added in master
 
+
+
+//added in master
+		
+		//master is one commit ahead
 
 
 	}
