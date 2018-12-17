@@ -6,23 +6,7 @@ public class Test1 {
 		System.out.println("git test");
 		
 
-
-
-		//changed in local
-		
-		//branch1
-
-		//changed in chr
-
-		
-
-		//added in master
-
-
-
-//added in master
-		
-		//master is one commit ahead
+//commit is made,, u ll get conflicts
 
 
 	}
